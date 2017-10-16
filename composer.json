@@ -1,0 +1,14 @@
+{
+    "name": "silverfire/phpunit-test",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "SilverFire - Dmitry Naumenko",
+            "email": "d.naumenko.a@gmail.com"
+        }
+    ],
+    "require": {}
+}
